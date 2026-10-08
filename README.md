@@ -11,3 +11,6 @@ Features
 • Delete Tasks: Remove tasks with immediate UI updates.
 • Asynchronous Operations: Fully powered by AJAX for a seamless, no-reload experience.
 • Clean UI: Responsive design styled with [Bootstrap / Custom CSS - Choose one].
+
+
+<img width="944" height="429" alt="Screenshot 2026-10-09 023410" src="https://github.com/user-attachments/assets/9a157e9f-c145-462f-914f-d0cc3b08e0c9" />
